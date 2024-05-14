@@ -21,7 +21,7 @@ This is a simple web application built with Streamlit to predict diabetes based 
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/diabetes-classifier-app.git
+   git clone https://github.com/rudraksh-tiwari05/diabetes-classifier-app.git
    ```
 
 3. Navigate to the project directory:
